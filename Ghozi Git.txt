@@ -1,0 +1,8 @@
+git add . (semua)
+git add "nama file"
+
+git commit -m "nama commit"
+
+git push (upload)
+
+git pull (refresh)
